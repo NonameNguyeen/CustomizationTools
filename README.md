@@ -26,4 +26,4 @@
 - [Terminal-Rain](https://github.com/rmaake1/terminal-rain-lightning) —  terminal animation that creates a falling-rain effect using ASCII characters.
 
 ## Wallpapers 
-[My wallpapers]
+[My wallpapers](https://github.com/NonameNguyeen/CustomizationTools/tree/main/Wallpapers)
