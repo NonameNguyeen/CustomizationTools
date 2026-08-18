@@ -13,14 +13,14 @@
 
 <h1>CLIs</h1>
 
-- Fastfetch —  fast and customizable system information tool that displays my hardware and system details in the terminal.
-- Cava —  terminal-based audio visualizer that displays music as dynamic bars.
-- Pipes-rs —  colorful terminal screensaver that displays animated pipes flowing across the screen.
-- Yazi —  fast and modern terminal file manager designed for efficient file navigation and management.
-- Btop —  beautiful terminal resource monitor for viewing CPU, RAM, disk, and network usage.
-- Momoisay —  cute terminal program that displays animated ASCII art and adds personality to my terminal.
-- Tty-clock —  simple terminal clock that displays the current time in an ASCII-style interface.
-- Cbonsai —  terminal program that grows a randomly generated ASCII bonsai tree.
-- Cmatrix — terminal screensaver that recreates the iconic falling green characters 
-- Lavat —  terminal visualizer that creates a colorful lava-like animation for a more dynamic terminal.
-- Terminal-Rain —  terminal animation that creates a falling-rain effect using ASCII characters. 
+- [Fastfetch](https://github.com/fastfetch-cli/fastfetch) —  fast and customizable system information tool that displays my hardware and system details in the terminal.
+- [Cava](https://github.com/karlstav/cava) —  terminal-based audio visualizer that displays music as dynamic bars.
+- [Pipes-rs](https://github.com/lhvy/pipes-rs) —  colorful terminal screensaver that displays animated pipes flowing across the screen.
+- [Yazi](https://github.com/sxyazi/yazi) —  fast and modern terminal file manager designed for efficient file navigation and management.
+- [Btop](https://github.com/aristocratos/btop) —  beautiful terminal resource monitor for viewing CPU, RAM, disk, and network usage.
+- [Momoisay](https://github.com/Mon4sm/momoisay) —  cute terminal program that displays animated ASCII art and adds personality to my terminal.
+- [Tty-clock](https://github.com/xorg62/tty-clock) —  simple terminal clock that displays the current time in an ASCII-style interface.
+- [Cbonsai](https://github.com/mhzawadi/homebrew-cbonsai) —  terminal program that grows a randomly generated ASCII bonsai tree.
+- [Cmatrix](https://github.com/abishekvashok/cmatrix) — terminal screensaver that recreates the iconic falling green characters 
+- [Lavat](https://github.com/AngelJumbo/lavat) —  terminal visualizer that creates a colorful lava-like animation for a more dynamic terminal.
+- [Terminal-Rain](https://github.com/rmaake1/terminal-rain-lightning) —  terminal animation that creates a falling-rain effect using ASCII characters. 
