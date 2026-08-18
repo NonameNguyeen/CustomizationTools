@@ -30,5 +30,7 @@
 
 Sources:
 [catppuccin theme](https://github.com/orangci/walls-catppuccin-mocha)
+
 [Wallhaven](https://wallhaven.cc/)
+
 [cozy](https://github.com/SleepyCatHey/CozyPixels)
