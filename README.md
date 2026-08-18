@@ -12,3 +12,15 @@
 - [AltSnap](https://github.com/RamonUnch/AltSnap) —  lightweight Windows utility that makes moving and resizing windows easier with keyboard and mouse shortcuts.
 
 <h1>CLIs</h1>
+
+- Fastfetch —  fast and customizable system information tool that displays my hardware and system details in the terminal.
+- Cava —  terminal-based audio visualizer that displays music as dynamic bars.
+- Pipes-rs —  colorful terminal screensaver that displays animated pipes flowing across the screen.
+- Yazi —  fast and modern terminal file manager designed for efficient file navigation and management.
+- Btop —  beautiful terminal resource monitor for viewing CPU, RAM, disk, and network usage.
+- Momoisay —  cute terminal program that displays animated ASCII art and adds personality to my terminal.
+- Tty-clock —  simple terminal clock that displays the current time in an ASCII-style interface.
+- Cbonsai —  terminal program that grows a randomly generated ASCII bonsai tree.
+- Cmatrix — terminal screensaver that recreates the iconic falling green characters 
+- Lavat —  terminal visualizer that creates a colorful lava-like animation for a more dynamic terminal.
+- Terminal-Rain —  terminal animation that creates a falling-rain effect using ASCII characters. 
