@@ -1,7 +1,7 @@
 <h1>SOFTWARE</h1>
 
-- YASB —  Customizable Windows status bar that lets me add widgets and personalize my desktop.
-- Zen Browser —  highly customizable web browser with a clean, modern interface.
+- [YASB](https://github.com/amnweb/yasb) —  Customizable Windows status bar that lets me add widgets and personalize my desktop.
+- [Zen Browser](https://zen-browser.app/) — Firefox-based browser, highly customizable web browser with a clean, modern interface.
 - Brave Browser — fast and privacy-focused web browser with built-in ad and tracker blocking.
 - Vencord — Discord client modification that adds customization options, themes, and plugins.
 - Spicetify — tool that lets me customize Spotify's appearance and functionality.
