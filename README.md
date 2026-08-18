@@ -35,3 +35,10 @@ Sources:
 [Wallhaven](https://wallhaven.cc/)
 
 [cozy](https://github.com/SleepyCatHey/CozyPixels)
+
+## Extra
+
+[JetBrains Mona Nerd Font](https://github.com/jetbrains/jetbrainsmono)
+
+
+
