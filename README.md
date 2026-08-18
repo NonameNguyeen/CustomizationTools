@@ -23,4 +23,7 @@
 - [Cbonsai](https://github.com/mhzawadi/homebrew-cbonsai) —  terminal program that grows a randomly generated ASCII bonsai tree.
 - [Cmatrix](https://github.com/abishekvashok/cmatrix) — terminal screensaver that recreates the iconic falling green characters 
 - [Lavat](https://github.com/AngelJumbo/lavat) —  terminal visualizer that creates a colorful lava-like animation for a more dynamic terminal.
-- [Terminal-Rain](https://github.com/rmaake1/terminal-rain-lightning) —  terminal animation that creates a falling-rain effect using ASCII characters. 
+- [Terminal-Rain](https://github.com/rmaake1/terminal-rain-lightning) —  terminal animation that creates a falling-rain effect using ASCII characters.
+
+## Wallpapers 
+[My wallpapers]
