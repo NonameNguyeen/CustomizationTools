@@ -30,11 +30,11 @@
 
 Sources:
 
-[catppuccin theme](https://github.com/orangci/walls-catppuccin-mocha)
+https://github.com/orangci/walls-catppuccin-mocha
 
-[Wallhaven](https://wallhaven.cc/)
+https://wallhaven.cc/
 
-[cozy](https://github.com/SleepyCatHey/CozyPixels)
+https://github.com/SleepyCatHey/CozyPixels
 
 ## Extra
 
