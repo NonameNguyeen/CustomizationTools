@@ -38,7 +38,7 @@ https://github.com/SleepyCatHey/CozyPixels
 
 ## Extra
 
-[JetBrains Mona Nerd Font](https://github.com/jetbrains/jetbrainsmono)
+[JetBrains Mono Nerd Font](https://github.com/jetbrains/jetbrainsmono)
 
 
 
